@@ -1,0 +1,23 @@
+{
+  "name": "reduxonly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omphalus kua",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haluskua/simple_redux_react_ap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haluskua/simple_redux_react_ap/issues"
+  },
+  "homepage": "https://github.com/haluskua/simple_redux_react_ap#readme",
+  "description": ""
+}
